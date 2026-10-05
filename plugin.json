@@ -1,0 +1,16 @@
+{
+  "$schema": "https://pocket-ide.dev/schemas/plugin-v1.json",
+  "id": "plugin_json_viewer",
+  "name": "JSON Tree & Schema Inspector",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Visual interactive collapsible tree viewer, node search, and schema validator for JSON files.",
+  "author": "susstaber446-ops",
+  "category": "viewer",
+  "tags": ["json", "tree", "schema", "inspector"],
+  "icon": "code-slash-outline",
+  "fileExtensions": [".json"],
+  "capabilities": {
+    "filePreview": true
+  }
+}
